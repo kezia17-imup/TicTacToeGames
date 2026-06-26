@@ -45,7 +45,8 @@ MySQL
 - TopScorersFrame : Window top 5 skor (JTable)
 
 ## YouTube
-(isi link video setelah upload)
+(https://youtu.be/axxsjhXnenA?feature=shared)
 
 ## GitHub
 https://github.com/kezia17-imup/TicTacToeGames
+## YouTube
