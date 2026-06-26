@@ -52,7 +52,7 @@ https://github.com/kezia17-imup/TicTacToeGames
 
 ## Screenshoots
 ### Login Window
-![Login Window](login-window.png)
+![Login Window](screenshotslogin-window.png)
 
 ### Game Window
 ![Game Window](game-window.png)
