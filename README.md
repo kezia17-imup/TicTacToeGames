@@ -23,15 +23,29 @@ dan top 5 skor dari database MySQL.
 - LOSE : +0 poin
 
 ## Database
-MySQL - satu tabel bernama players
+MySQL 
 
 ## How to Run
-1. Install MySQL, buat database dengan schema di folder database/
+1. Install MySQL, buat database dengan schema di folder database
 2. Buka project di IntelliJ IDEA
 3. Tambahkan mysql-connector-j.jar ke Libraries
-4. Edit DatabaseManager.java (isi password MySQL kamu)
+4. Edit DatabaseManager.java (isi password MySQL)
 5. Run Main.java
 
 ## Class Explanation
 - Main            : Entry point, membuka LoginFrame
-- DatabaseManager :
+- DatabaseManager : Koneksi JDBC ke MySQL
+- Player          : Model data pemain
+- PlayerService   : Login, update statistik, top 5
+- GameLogic       : Logika game (move, winner, draw, AI)
+- LoginFrame      : Window login
+- MainMenuFrame   : Window menu utama
+- GameFrame       : Window permainan
+- StatisticsFrame : Window statistik personal
+- TopScorersFrame : Window top 5 skor (JTable)
+
+## YouTube
+(isi link video setelah upload)
+
+## GitHub
+https://github.com/kezia17-imup/TicTacToeGames
