@@ -50,4 +50,13 @@ MySQL
 ## GitHub
 https://github.com/kezia17-imup/TicTacToeGames
 
-## YouTube
+## Screenshoots
+### Login Window
+![Login Window](login-window.png)
+
+### Game Window
+![Game Window](game-window.png)
+
+### Top 5 Scorers Window
+![Top Scorers](top-scorers-window.png)
+
