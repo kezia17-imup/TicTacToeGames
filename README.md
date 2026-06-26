@@ -37,7 +37,7 @@ MySQL
 - DatabaseManager : Koneksi JDBC ke MySQL
 - Player          : Model data pemain
 - PlayerService   : Login, update statistik, top 5
-- GameLogic       : Logika game (move, winner, draw, AI)
+- GameLogic       : Logika game (move, winner, draw, computer move)
 - LoginFrame      : Window login
 - MainMenuFrame   : Window menu utama
 - GameFrame       : Window permainan
